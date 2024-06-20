@@ -230,7 +230,7 @@ class hospital:
                                 conn = mysql.connector.connect(
                                         host="localhost",
                                         user="root",
-                                        password="Roshan0705@",
+                                        password="addyours@",
                                         database="mydata"
                                 )
                                 my_cursor = conn.cursor()
